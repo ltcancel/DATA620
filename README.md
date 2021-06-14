@@ -2,7 +2,7 @@
 
 Group Assignments for DATA 620
 
-Group Members:
+Group Members: 
 Bharani Nittala
 John Mazon
 LeTicia Cancel
