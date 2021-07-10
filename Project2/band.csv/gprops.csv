@@ -1,0 +1,6 @@
+# prop_name, value
+name,baseball (user-provider)
+description,"Two networks representing steroid use among baseball players. First, a bipartite network of players and their steroid providers (of illegal performance-enhancing substances). Second, a one-mode projection of players, which are linked if they have a common supplier."
+citation,"['V. Krebs, \"The Spread of Steroids in Baseball.\" http://orgnet.com/steroids.html (2008), http://orgnet.com/steroids.html']"
+url,http://orgnet.com/steroids.html
+tags,"['Social', 'Offline', 'Weighted', 'Projection']"
