@@ -1,0 +1,604 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-07-11">
+    <creator>NetworkX 2.5.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="bipartite" type="long" />
+      <attribute id="1" title="degree" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Miguel_Tejada" label="Miguel_Tejada">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jason_Giambi" label="Jason_Giambi">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Jerry_HarrisonJr" label="Jerry_HarrisonJr">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Matt_Williams" label="Matt_Williams">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Lenny_Dykstra" label="Lenny_Dykstra">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Steve_Woodward" label="Steve_Woodward">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="David_Segul" label="David_Segul">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mike_Bell" label="Mike_Bell">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jason_Grimsley" label="Jason_Grimsley">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Paul_Byrd" label="Paul_Byrd">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Barry_Bonds" label="Barry_Bonds">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Jose_Canseco" label="Jose_Canseco">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="Andy_Pettittle" label="Andy_Pettittle">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Matt_Franco" label="Matt_Franco">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jason_Christiansen" label="Jason_Christiansen">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Daren_Holmes" label="Daren_Holmes">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Hal_Morris" label="Hal_Morris">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="David_Justice" label="David_Justice">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Chuck_Knoblauch" label="Chuck_Knoblauch">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Brian_Roberts" label="Brian_Roberts">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Victor_Conte" label="Victor_Conte">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Todd_Pratt" label="Todd_Pratt">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Gary_MatthewsJr" label="Gary_MatthewsJr">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Rick_Ankiel" label="Rick_Ankiel">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jose_Guillen" label="Jose_Guillen">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Luis_Perez" label="Luis_Perez">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kevin_Brown" label="Kevin_Brown">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mike_Stanton" label="Mike_Stanton">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Randy_Velarde" label="Randy_Velarde">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mike_Lansing" label="Mike_Lansing">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Denny_Neagle" label="Denny_Neagle">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Cody_McKay" label="Cody_McKay">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Chad_Allen" label="Chad_Allen">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Todd_Williams" label="Todd_Williams">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bart_Miadich" label="Bart_Miadich">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Marvin_Bernard" label="Marvin_Bernard">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Larry_Bigble" label="Larry_Bigble">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Troy_Glaus" label="Troy_Glaus">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Matt_Herges" label="Matt_Herges">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Scott_Schoeneweis" label="Scott_Schoeneweis">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Gary_Sheffield" label="Gary_Sheffield">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="David_Bell" label="David_Bell">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="Chris_Donnels" label="Chris_Donnels">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Adam_Platt" label="Adam_Platt">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Rondell_White" label="Rondell_White">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Eric_Gagne" label="Eric_Gagne">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jeremy_Giambi" label="Jeremy_Giambi">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Paulio_Duca" label="Paulio_Duca">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Brendan_Donnelly" label="Brendan_Donnelly">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mark_Carreon" label="Mark_Carreon">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Fernando_Vina" label="Fernando_Vina">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ismael_Vaklez" label="Ismael_Vaklez">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Tim_Laker" label="Tim_Laker">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kevin_Young" label="Kevin_Young">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Benito_Santiago" label="Benito_Santiago">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BrianMcNamee" label="BrianMcNamee">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="Phil_Hiatt" label="Phil_Hiatt">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Exavier_Logan" label="Exavier_Logan">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kirk_Radomski" label="Kirk_Radomski">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="44" />
+        </attvalues>
+      </node>
+      <node id="Tod_Hundley" label="Tod_Hundley">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jim_Parque" label="Jim_Parque">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jose_Cervantes" label="Jose_Cervantes">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kent_Mercker" label="Kent_Mercker">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Josias_Manzanillo" label="Josias_Manzanillo">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jeff_Williams" label="Jeff_Williams">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="John_Rocker" label="John_Rocker">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Armando_Rios" label="Armando_Rios">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Bobby_Estalella" label="Bobby_Estalella">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Gregg_Zaun" label="Gregg_Zaun">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jay_Gibbons" label="Jay_Gibbons">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Roger_Clemense" label="Roger_Clemense">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="FP_Santagelo" label="FP_Santagelo">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Adam_Riggs" label="Adam_Riggs">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BALCO" label="BALCO">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="Greg_Anderson" label="Greg_Anderson">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Palm_Beach_Rejuvenation_Centre" label="Palm_Beach_Rejuvenation_Centre">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="New_Hope_Health_Centre" label="New_Hope_Health_Centre">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Signature_Pharmacy" label="Signature_Pharmacy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="American_Pharmaceutical_Group" label="American_Pharmaceutical_Group">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Health_Rejuvenation_Centre" label="Health_Rejuvenation_Centre">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Applied_Pharmacy_Services" label="Applied_Pharmacy_Services">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="Arizona_AntiAging_Clinic" label="Arizona_AntiAging_Clinic">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Health_Watch_Clinic" label="Health_Watch_Clinic">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Glenallen_Hill" label="Glenallen_Hill">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Miguel_Tejada" target="Kirk_Radomski" id="0" />
+      <edge source="Jason_Giambi" target="BALCO" id="1" />
+      <edge source="Jason_Giambi" target="Greg_Anderson" id="2" />
+      <edge source="Jerry_HarrisonJr" target="American_Pharmaceutical_Group" id="3" />
+      <edge source="Jerry_HarrisonJr" target="Kirk_Radomski" id="4" />
+      <edge source="Matt_Williams" target="Palm_Beach_Rejuvenation_Centre" id="5" />
+      <edge source="Lenny_Dykstra" target="Kirk_Radomski" id="6" />
+      <edge source="Steve_Woodward" target="Signature_Pharmacy" id="7" />
+      <edge source="David_Segul" target="Kirk_Radomski" id="8" />
+      <edge source="Mike_Bell" target="Kirk_Radomski" id="9" />
+      <edge source="Jason_Grimsley" target="Palm_Beach_Rejuvenation_Centre" id="10" />
+      <edge source="Jason_Grimsley" target="Signature_Pharmacy" id="11" />
+      <edge source="Paul_Byrd" target="Palm_Beach_Rejuvenation_Centre" id="12" />
+      <edge source="Barry_Bonds" target="BALCO" id="13" />
+      <edge source="Barry_Bonds" target="Greg_Anderson" id="14" />
+      <edge source="Jose_Canseco" target="Signature_Pharmacy" id="15" />
+      <edge source="Jose_Canseco" target="Health_Rejuvenation_Centre" id="16" />
+      <edge source="Jose_Canseco" target="Applied_Pharmacy_Services" id="17" />
+      <edge source="Jose_Canseco" target="Health_Watch_Clinic" id="18" />
+      <edge source="Andy_Pettittle" target="BrianMcNamee" id="19" />
+      <edge source="Matt_Franco" target="Kirk_Radomski" id="20" />
+      <edge source="Jason_Christiansen" target="Kirk_Radomski" id="21" />
+      <edge source="Daren_Holmes" target="Palm_Beach_Rejuvenation_Centre" id="22" />
+      <edge source="Hal_Morris" target="Kirk_Radomski" id="23" />
+      <edge source="David_Justice" target="Kirk_Radomski" id="24" />
+      <edge source="Chuck_Knoblauch" target="BrianMcNamee" id="25" />
+      <edge source="Brian_Roberts" target="Kirk_Radomski" id="26" />
+      <edge source="Victor_Conte" target="BALCO" id="27" />
+      <edge source="Todd_Pratt" target="Kirk_Radomski" id="28" />
+      <edge source="Gary_MatthewsJr" target="Signature_Pharmacy" id="29" />
+      <edge source="Gary_MatthewsJr" target="Applied_Pharmacy_Services" id="30" />
+      <edge source="Rick_Ankiel" target="Health_Rejuvenation_Centre" id="31" />
+      <edge source="Jose_Guillen" target="Palm_Beach_Rejuvenation_Centre" id="32" />
+      <edge source="Luis_Perez" target="Kirk_Radomski" id="33" />
+      <edge source="Kevin_Brown" target="Kirk_Radomski" id="34" />
+      <edge source="Mike_Stanton" target="Kirk_Radomski" id="35" />
+      <edge source="Randy_Velarde" target="Greg_Anderson" id="36" />
+      <edge source="Mike_Lansing" target="Kirk_Radomski" id="37" />
+      <edge source="Denny_Neagle" target="Kirk_Radomski" id="38" />
+      <edge source="Cody_McKay" target="Kirk_Radomski" id="39" />
+      <edge source="Chad_Allen" target="Kirk_Radomski" id="40" />
+      <edge source="Todd_Williams" target="Kirk_Radomski" id="41" />
+      <edge source="Bart_Miadich" target="Kirk_Radomski" id="42" />
+      <edge source="Marvin_Bernard" target="Greg_Anderson" id="43" />
+      <edge source="Larry_Bigble" target="Kirk_Radomski" id="44" />
+      <edge source="Troy_Glaus" target="New_Hope_Health_Centre" id="45" />
+      <edge source="Matt_Herges" target="Kirk_Radomski" id="46" />
+      <edge source="Scott_Schoeneweis" target="New_Hope_Health_Centre" id="47" />
+      <edge source="Gary_Sheffield" target="BALCO" id="48" />
+      <edge source="Gary_Sheffield" target="Greg_Anderson" id="49" />
+      <edge source="David_Bell" target="Signature_Pharmacy" id="50" />
+      <edge source="David_Bell" target="Applied_Pharmacy_Services" id="51" />
+      <edge source="David_Bell" target="Arizona_AntiAging_Clinic" id="52" />
+      <edge source="Chris_Donnels" target="Kirk_Radomski" id="53" />
+      <edge source="Adam_Platt" target="Kirk_Radomski" id="54" />
+      <edge source="Rondell_White" target="Kirk_Radomski" id="55" />
+      <edge source="Eric_Gagne" target="Kirk_Radomski" id="56" />
+      <edge source="Jeremy_Giambi" target="BALCO" id="57" />
+      <edge source="Paulio_Duca" target="Kirk_Radomski" id="58" />
+      <edge source="Brendan_Donnelly" target="Kirk_Radomski" id="59" />
+      <edge source="Mark_Carreon" target="Kirk_Radomski" id="60" />
+      <edge source="Fernando_Vina" target="Kirk_Radomski" id="61" />
+      <edge source="Ismael_Vaklez" target="Palm_Beach_Rejuvenation_Centre" id="62" />
+      <edge source="Tim_Laker" target="Kirk_Radomski" id="63" />
+      <edge source="Kevin_Young" target="Kirk_Radomski" id="64" />
+      <edge source="Benito_Santiago" target="Greg_Anderson" id="65" />
+      <edge source="BrianMcNamee" target="Roger_Clemense" id="66" />
+      <edge source="Phil_Hiatt" target="Kirk_Radomski" id="67" />
+      <edge source="Exavier_Logan" target="Kirk_Radomski" id="68" />
+      <edge source="Kirk_Radomski" target="Tod_Hundley" id="69" />
+      <edge source="Kirk_Radomski" target="Kent_Mercker" id="70" />
+      <edge source="Kirk_Radomski" target="Adam_Riggs" id="71" />
+      <edge source="Kirk_Radomski" target="FP_Santagelo" id="72" />
+      <edge source="Kirk_Radomski" target="Josias_Manzanillo" id="73" />
+      <edge source="Kirk_Radomski" target="Jose_Cervantes" id="74" />
+      <edge source="Kirk_Radomski" target="Gregg_Zaun" id="75" />
+      <edge source="Kirk_Radomski" target="Jeff_Williams" id="76" />
+      <edge source="Kirk_Radomski" target="Glenallen_Hill" id="77" />
+      <edge source="Kirk_Radomski" target="Jim_Parque" id="78" />
+      <edge source="John_Rocker" target="Applied_Pharmacy_Services" id="79" />
+      <edge source="Armando_Rios" target="BALCO" id="80" />
+      <edge source="Armando_Rios" target="Greg_Anderson" id="81" />
+      <edge source="Bobby_Estalella" target="Greg_Anderson" id="82" />
+      <edge source="Jay_Gibbons" target="American_Pharmaceutical_Group" id="83" />
+    </edges>
+  </graph>
+</gexf>
