@@ -1,0 +1,6 @@
+# prop_name, value
+name,foursquare (NYC_restaurant_checkin)
+description,"Two bipartite networks of users and restaurant locations in New York City on Foursquare, from 24 October 2011 to 20 February 2012. In one network, an edge denotes a check-in event of a user at a restaurant. In the other, an edge exists if a user left a tip/comment on a restaurant. Metadata include comments."
+citation,"['D. Yang, et al. \"Fine-grained preference-aware location search leveraging crowdsourced digital footprints from LBSNs.\" Proceedings of the 2013 ACM international joint conference on Pervasive and ubiquitous computing. ACM. (2013)., http://dl.acm.org/citation.cfm?id=2493464']"
+url,https://sites.google.com/site/yangdingqi/home/foursquare-dataset
+tags,"['Social', 'Online', 'Unweighted', 'Metadata']"
